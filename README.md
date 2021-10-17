@@ -1,2 +1,3 @@
-# modern-cpp-programming-with-tdd
-Following examples in the book for learning googleCC_Test
+# Modern C++ Programming with Test-Driven Development
+
+  - This repository is use to practice the examples given in the book.
